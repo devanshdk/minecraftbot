@@ -6,7 +6,7 @@
     },
 
     "server":{
-        "ip": "weareallnoobs.aternos.me",
+        "ip": "mandarinfish.aternos.host",
         "port": 21064,
         "version": "1.18.1"
     },
