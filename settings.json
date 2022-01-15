@@ -1,0 +1,31 @@
+{
+    "bot-account":{ 
+        "username": "ServerGuard",
+        "password": "",
+        "type": "mojang"
+    },
+
+    "server":{
+        "ip": "weareallnoobs.aternos.me",
+        "port": 21064,
+        "version": "1.18.1"
+    },
+
+   
+
+    "utils":{
+        "auto-auth":{
+            "enabled": false,
+            "password": "12345678"
+        },
+
+        "anti-afk":{
+            "enabled": true,
+            "sneak": true
+      }
+      {
+
+        "chat-log": true,
+        "auto-reconnect": true
+    }
+}
